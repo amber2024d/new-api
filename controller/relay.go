@@ -1,7 +1,6 @@
 package controller
 
 import (
-	"bytes"
 	"errors"
 	"fmt"
 	"io"
